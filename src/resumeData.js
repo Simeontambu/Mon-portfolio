@@ -1,63 +1,59 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "imagebaseurl":"https://github.com/Simeontambu.io/",
+    "name": "Siméon Tambu",
+    "role": "Concepteur de système d'information et Développeur Fullstack",
+    "linkedinId":"https://www.linkedin.com/in/simeon-tambu-45379519a",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " Capable d'analyser et comprendre le besoin et ses spécificités et de proposer une solution adaptée, qu'elle soit l'intégration d'un produit du marché ou une réalisation sur mesure.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/simeon-tambu-45379519a/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/Simeontambu",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
+        
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"Gradué en analyse et programmation, licencié en conception de systèmes d'information. Créatif: Je sors des sentiers battus. Curiosité : Je suis toujours disposé à apprendre. Déterminé : Je suis toujours très motivé. Dévoué : Je me consacre au succès de l'entreprise.",
     "address":"India",
     "website":"https://rbhatia46.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Institut Supérieur de Commerce de Kinshasa",
+        "specialization":"Concepteur de système d'information",
+        "MonthOfPassing":"Décembre",
+        "YearOfPassing":"2022",
+        "Achievements":""
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"",
+        "specialization":"",
+        "MonthOfPassing":"",
+        "YearOfPassing":"",
+        "Achievements":""
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"https://universite.cd/",
+        "specialization":"administrateur du site",
+        "MonthOfLeaving":"Juin",
+        "YearOfLeaving":"2020 - Fevrier 2021",
+        "Achievements":""
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"",
+        "specialization":"",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"",
+        "Achievements":""
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname":"HTML5"
@@ -67,6 +63,25 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"JavaScript"
+      }
+      ,
+      {
+        "skillname":"PHP"
+      }
+      ,
+      {
+        "skillname":"C#"
+      }
+      ,
+      {
+        "skillname":"WordPress"
+      }
+      ,
+      {
+        "skillname":"Merise & UML"
       }
     ],
     "portfolio":[
@@ -89,16 +104,6 @@ let resumeData = {
         "name":"project4",
         "description":"mobileapp",
         "imgurl":"images/portfolio/phone.jpg"
-      }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
       }
     ]
   }
