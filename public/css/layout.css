@@ -1,24 +1,3 @@
-/*
-=====================================================================
-*   Ceevee v1.0 Layout Stylesheet
-*   url: styleshout.com
-*   03-18-2014
-=====================================================================
-
-   TOC:
-   a. General Styles
-   b. Header Styles
-   c. About Section
-   d. Resume Section
-   e. Portfolio Section
-   f. Call To Action Section
-   g. Testimonials Section
-   h. Contact Section
-   i. Footer
-
-===================================================================== */
-
-/* ------------------------------------------------------------------ */
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
@@ -52,7 +31,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -282,7 +261,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /*----------------------------------------------*/
-/*	Skill Bars
+/*	Skill 
 /*----------------------------------------------*/
 
 .bars {
@@ -330,20 +309,45 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
+.php {
+   width: 60%;
+   -moz-animation: php 2s ease;
+   -webkit-animation: php 2s ease;
+}
 .illustrator {
   	width: 55%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .wordpress {
-  	width: 50%;
+  	width: 70%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 60%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
+}
+.Csharp {
+   width: 70%;
+   -moz-animation: Csharp 2s ease;
+   -webkit-animation: Csharps 2s ease;
+}
+.javascript {
+   width: 40%;
+   -moz-animation: javascript 2s ease;
+   -webkit-animation: javascript 2s ease;
+}
+.Reactjs {
+   width: 30%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+}
+.merise-uml {
+   width: 90%;
+   -moz-animation: merise-uml 2s ease;
+   -webkit-animation: merise-uml 2s ease;
 }
 .html5 {
   	width: 80%;
@@ -360,6 +364,26 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
+@-moz-keyframes php {
+   0%   { width: 0px;  }
+   100% { width: 50%;  }
+ }
+ @-moz-keyframes Reactjs {
+   0%   { width: 0px;  }
+   100% { width: 50%;  }
+ }
+ @-moz-keyframes javascript {
+   0%   { width: 0px;  }
+   100% { width: 50%;  }
+ }
+ @-moz-keyframes Csharp {
+   0%   { width: 0px;  }
+   100% { width: 70%;  }
+ }
+ @-moz-keyframes merise-uml {
+   0%   { width: 0px;  }
+   100% { width: 90%;  }
+ }
 @-moz-keyframes illustrator {
   0%   { width: 0px;  }
   100% { width: 55%;  }
@@ -370,7 +394,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }

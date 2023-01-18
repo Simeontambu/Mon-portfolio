@@ -73,7 +73,7 @@ let resumeData = {
       }
       ,
       {
-        "skillname":"C#"
+        "skillname":"CSharp"
       }
       ,
       {
@@ -81,29 +81,30 @@ let resumeData = {
       }
       ,
       {
-        "skillname":"Merise & UML"
+        "skillname":"Merise-UML"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"proj1",
+        "description":"journaliers.com",
+        "imgurl":""
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"proj2",
+        "description":"Li",
+        "imgurl":""
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"proj3",
+        "description":"",  
+        "imgurl":""
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"proj4",
+        "description":"siteweb",
+        "imgurl":""
+       
       }
     ]
   }
