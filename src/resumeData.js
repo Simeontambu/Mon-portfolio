@@ -73,6 +73,22 @@ let resumeData = {
       }
       ,
       {
+        "skillname":"Windev-mobile"
+      }
+      ,
+      {
+        "skillname":"Excel-Access"
+      }
+      ,
+      {
+        "skillname":"SQL"
+      }
+      ,
+      {
+        "skillname":"Git-GitHub"
+      }
+      ,
+      {
         "skillname":"CSharp"
       }
       ,
@@ -100,6 +116,7 @@ let resumeData = {
         "description":"",  
         "imgurl":""
       },
+      
       {
         "name":"proj4",
         "description":"siteweb",

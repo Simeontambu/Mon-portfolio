@@ -329,17 +329,38 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.Csharp {
-   width: 70%;
-   -moz-animation: Csharp 2s ease;
-   -webkit-animation: Csharps 2s ease;
+.csharp {
+   width: 80%;
+   -moz-animation: csharp 2s ease;
+   -webkit-animation: csharps 2s ease;
 }
+.git-github {
+   width: 50%;
+   -moz-animation: git-github 2s ease;
+   -webkit-animation: git-github 2s ease;
+}
+.excel-access {
+   width: 60%;
+   -moz-animation: excel-access 2s ease;
+   -webkit-animation: excel-access 2s ease;
+}
+.sql {
+   width: 70%;
+   -moz-animation: sql 2s ease;
+   -webkit-animation: sql 2s ease;
+}
+.windev-mobile {
+   width: 70%;
+   -moz-animation: windev-mobile 2s ease;
+   -webkit-animation: windev-mobile 2s ease;
+}
+
 .javascript {
-   width: 40%;
+   width: 50%;
    -moz-animation: javascript 2s ease;
    -webkit-animation: javascript 2s ease;
 }
-.Reactjs {
+.reactjs {
    width: 30%;
    -moz-animation: reactjs 2s ease;
    -webkit-animation: reactjs 2s ease;
@@ -377,9 +398,25 @@ ul#nav li.current a { color: #F06000; }
    0%   { width: 0px;  }
    100% { width: 50%;  }
  }
- @-moz-keyframes Csharp {
+ @-moz-keyframes git-github {
+   0%   { width: 0px;  }
+   100% { width: 50%;  }
+ }
+ @-moz-keyframes sql {
    0%   { width: 0px;  }
    100% { width: 70%;  }
+ }
+ @-moz-keyframes excel-access {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+ }
+ @-moz-keyframes windev-mobile {
+   0%   { width: 0px;  }
+   100% { width: 70%;  }
+ }
+ @-moz-keyframes csharp {
+   0%   { width: 0px;  }
+   100% { width: 80%;  }
  }
  @-moz-keyframes merise-uml {
    0%   { width: 0px;  }
@@ -391,7 +428,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes wordpress {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
